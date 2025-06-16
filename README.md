@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-🔹 CS @UET 🚀 | MERN Stack Dev 🌐 | Backend 🛠️ | Cross-Platform Dev 📱 | C++ 💻 | C# ⚙️ | JavaScript 🔧 | Python 🐍 | DSA & Problem Solving 🧠 | AI/ML Enthusiast 🤖 | Blockchain ⛓️   
+🔹 CS @UET 🚀 | MERN Stack Dev 🌐 | Backend (in progress) 🛠️ | Cross-Platform Dev 📱 | C++ 💻 | C# ⚙️ | JavaScript (Strong) 🔧 | Python (Strong) 🐍 | DSA & Problem Solving 🧠 | AI/ML Enthusiast 🤖 | Blockchain ⛓️ | Oracle DBMS 🗃️ | SQL 🗄️  
 
 ---
 
@@ -31,6 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamhammaddevx)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamhammad_dev)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamHammadDevX)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thisis_hammad)
 
 ---
 
@@ -65,8 +66,9 @@
 
 ## 📊 GitHub Stats
 
-![IamHammadDevX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamHammadDevX&show_icons=true&theme=tokyonight)
-![IamHammadDevX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamHammadDevX&layout=compact&theme=tokyonight)
+![IamHammadDevX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamHammadDevX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![IamHammadDevX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamHammadDevX&layout=compact&theme=tokyonight&langs_count=8&hide=css,html)
+![IamHammadDevX's JavaScript Stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamHammadDevX&langs_count=1&theme=tokyonight&range=all_time&hide_title=true&hide_border=true&custom_title=JavaScript%20Usage)
 
 ---
 
