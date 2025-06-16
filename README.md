@@ -68,7 +68,10 @@
 
 ![IamHammadDevX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamHammadDevX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![IamHammadDevX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamHammadDevX&layout=compact&theme=tokyonight&langs_count=8&hide=css,html)
-![IamHammadDevX's JavaScript Stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamHammadDevX&langs_count=1&theme=tokyonight&range=all_time&hide_title=true&hide_border=true&custom_title=JavaScript%20Usage)
+
+<!--
+**If you see an error in stats above, please make sure your profile and contributions are public!**
+-->
 
 ---
 
