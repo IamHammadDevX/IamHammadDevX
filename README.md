@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hi, I'm Hammad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=IamHammadDevX&style=flat-square)](https://github.com/IamHammadDevX)
+[![Website](https://img.shields.io/badge/Portfolio-iamhammaddev.netlify.app-blue?style=flat-square&logo=google-chrome)](http://iamhammaddev.netlify.app/)
+
+---
+
+## 💫 About Me
+
+🔹 CS @UET 🚀 | MERN Stack Dev 🌐 | Backend 🛠️ | Cross-Platform Dev 📱 | C++ 💻 | C# ⚙️ | JavaScript 🔧 | Python 🐍 | DSA & Problem Solving 🧠 | AI/ML Enthusiast 🤖 | Blockchain ⛓️   
+
+---
+
+## 🌱 What I'm Learning
+
+- 🔭 Currently diving deep into **Backend Development**
+- 🤖 Exploring **Artificial Intelligence / Machine Learning**
+- 🐍 Learning **Python** for AI/ML
+
+---
+
+## 🤝 Collaboration
+
+- 👯 Looking to collaborate on projects relating to **Backend, AI Applications, and Cloud**
+- 🌱 Currently mastering **AI**
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamhammaddevx)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamhammad_dev)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamHammadDevX)
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Computer Scientist from UET
+- 🌟 Lifelong Learner & Coding Enthusiast
+- 🌐 Building modern web, mobile, backend, and AI experiences
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+
+**MERN Stack:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Databases:**  
+![Oracle](https://img.shields.io/badge/Oracle-DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![IamHammadDevX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamHammadDevX&show_icons=true&theme=tokyonight)
+![IamHammadDevX's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamHammadDevX&layout=compact&theme=tokyonight)
+
+---
+
+## 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IamHammadDevX&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## ✍️ Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
 
 <!--
-**IamHammadDevX/IamHammadDevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⭐️ From [IamHammadDevX](https://github.com/IamHammadDevX)
 -->
