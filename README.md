@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-🔹 CS @UET 🚀 | MERN Stack Dev 🌐 | Backend (in progress) 🛠️ | Cross-Platform Dev 📱 | C++ 💻 | C# ⚙️ | JavaScript (Strong) 🔧 | Python (Strong) 🐍 | DSA & Problem Solving 🧠 | AI/ML Enthusiast 🤖 | Blockchain ⛓️ | Oracle DBMS 🗃️ | SQL 🗄️  
+🔹 CS @UET 🚀 | MERN Stack Dev 🌐 | Backend 🛠️ | Cross-Platform Dev 📱 | C++ 💻 | C# ⚙️ | JavaScript 🔧 | Python 🐍 | DSA & Problem Solving 🧠 | AI/ML Enthusiast 🤖 | Blockchain ⛓️ | Oracle DBMS 🗃️ | SQL 🗄️  
 
 ---
 
