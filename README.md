@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hammad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=IamHammadDevX&style=flat-square)](https://github.com/IamHammadDevX)
-[![Website](https://img.shields.io/badge/Portfolio-iamhammaddev.netlify.app-blue?style=flat-square&logo=google-chrome)](http://iamhammaddev.netlify.app/)
+[![Website](https://img.shields.io/badge/Portfolio-iamhammaddev.netlify.app-blue?style=flat-square&logo=google-chrome)](https://thisishammaddevx.netlify.app/)
 
 ---
 
