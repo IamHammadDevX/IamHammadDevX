@@ -7,22 +7,22 @@
 
 ## 💫 About Me
 
-🔹 CS @UET 🚀 | MERN Stack Dev 🌐 | Backend 🛠️ | Cross-Platform Dev 📱 | C++ 💻 | C# ⚙️ | JavaScript 🔧 | Python 🐍 | DSA & Problem Solving 🧠 | AI/ML Enthusiast 🤖 | Blockchain ⛓️ | Oracle DBMS 🗃️ | SQL 🗄️  
+🔹 CS @UET 🚀 | Full Stack AI Developer | AI/ML Enthusiast 🤖 | Blockchain Solutions ⛓️ 
 
 ---
 
 ## 🌱 What I'm Learning
 
-- 🔭 Currently diving deep into **Backend Development**
+- 🔭 Currently diving deep into **Data Science**
 - 🤖 Exploring **Artificial Intelligence / Machine Learning**
-- 🐍 Learning **Python** for AI/ML
+- 🐍 Learning **Deep Learning** for AI/ML
 
 ---
 
 ## 🤝 Collaboration
 
 - 👯 Looking to collaborate on projects relating to **Backend, AI Applications, and Cloud**
-- 🌱 Currently mastering **AI**
+- 🌱 Currently, I'm proficient in **AI**
 
 ---
 
@@ -39,7 +39,8 @@
 
 - 🚀 Computer Scientist from UET
 - 🌟 Lifelong Learner & Coding Enthusiast
-- 🌐 Building modern web, mobile, backend, and AI experiences
+- 🧠 AI/ML Development – Smart chatbots, predictive models, intelligent automation
+- 🌐 Building intelligent web & desktop Apps
 
 ---
 
