@@ -7,7 +7,15 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a Full-Stack Developer, AI/ML Engineer, and Data Scientist building scalable web applications and intelligent systems. I design, build, and ship production-ready SaaS products, web apps, and ML-powered solutions that solve real-world problems.
+Hi, I’m Hammad — a Full-Stack Developer Specializing in AI-Driven SaaS Platforms.
+
+I started my journey as a curious developer exploring code, which naturally evolved into building real, production-ready solutions. Today, I work as a freelance engineer helping startups and businesses design, build, and scale high-impact digital products.
+
+My experience spans from academic and experimental projects to architecting AI-powered SaaS platforms and full-stack systems used by real users and companies. I focus on clean architecture, scalability, and long-term maintainability rather than quick, fragile builds.
+
+What motivates me most is turning a client’s idea into a live product that delivers measurable business value—whether that’s generating revenue, improving efficiency, or automating complex workflows. I don’t just write code; I engineer systems built to last.
+
+Every project I take on receives my full attention. Clean code, thoughtful design, clear communication, and reliable delivery aren’t promises for me—they’re my standard.
 
 - 🎯 Current focus: Building SaaS products, end-to-end ML pipelines, and production-grade web backends.
 - 🏛️ Education: Computer Science @ UET
