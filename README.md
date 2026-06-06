@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Headline
 
 Hi, I’m Hammad — a Full-Stack Developer Specializing in AI-Driven SaaS Platforms.
 
