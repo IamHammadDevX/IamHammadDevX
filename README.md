@@ -67,7 +67,7 @@
 </p>
 <p align="center"><sub>// ─────────────────────────────────────────────────────────────────── //</sub></p>
 <h3 align="center"><code>$ crontab -l</code></h3>
-bash
+<pre>
 # learning
 0 6 * * *  advanced-llm-fine-tuning --mode=transfer-learning
 30 6 * * *  distributed-systems --topic=edge-computing
@@ -83,6 +83,7 @@ bash
 
 # always
 * * * * *  open-to --types="GenAI SaaS, Full-Stack, Real-Time Systems, Contract, Freelance"
+</pre>
 <p align="center"><sub>// ─────────────────────────────────────────────────────────────────── //</sub></p>
 <h3 align="center"><code>curl api.github.com/users/IamHammadDevX</code></h3>
 <p align="center">
